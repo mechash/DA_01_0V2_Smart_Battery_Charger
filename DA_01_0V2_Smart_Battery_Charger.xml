@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>F:\KiCad\DA_01_0V2_Smart_Battery_Charger\DA_01_0V2_Smart_Battery_Charger.kicad_sch</source>
+    <date>13/06/2023 07:53:36 PM</date>
+    <tool>Eeschema 7.0.2</tool>
+    <textvar name="ADD_1">Majiwada, Thane (West)</textvar>
+    <textvar name="ADD_2">Maharashtra 400601, India</textvar>
+    <textvar name="CLIENT"> AVIATION</textvar>
+    <textvar name="POC">DINESH SAIN</textvar>
+    <textvar name="PRJ">Smart Battery Charger</textvar>
+    <textvar name="PRJ_ID">01</textvar>
+    <textvar name="PRJ_REV">0.2</textvar>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>27/05/2023</date>
+        <source>DA_01_0V2_Smart_Battery_Charger.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2e68478-8dcb-4b33-81e1-d6dee60bb703</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf5bd01e-1e1a-4f0e-bf19-96bd8feea98a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24a232cf-f3e0-44f1-8e17-3ffb99e6a88a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe7343e0-3c93-4af3-b003-8a15a8a40376</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbfa854f-c271-4f79-9280-9e1e62ef9472</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17b66d77-5567-4efe-b168-13b43b6e8758</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10ed7f63-0218-48e8-bde4-8db3c1f3eafc</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d25835c-e356-4b24-8c78-c0f422c22044</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10uf</value>
+      <footprint>MechAsh_Footprint_Library:C_E_1206</footprint>
+      <libsource lib="MechAsh_Library" part="C_E_1206_T" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c034c707-6fec-4ac7-8276-5c73042ffee3</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a72d4f7e-ff67-44ad-9422-0a0aea289c88</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3033845-516b-4385-ac61-e204f422a488</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0845b63a-e193-4c7a-9e12-16b5ea6c2ea8</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bee6626-f5f6-48d4-a1e3-05491d4d40bb</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c695ba3f-08ce-4ac9-8373-8c71bd656b8b</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>453f6ff5-706f-46ae-bcea-94f25ac14158</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da0157fa-40e9-4a0d-88b1-677caa44a60a</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d7c39c1-05fd-4ccf-a4e1-6ac2cb8d4789</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5268d3f-3360-43b7-86f8-5f5f307ece27</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>10uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>943ca15c-1fe7-4a5b-a950-730c67fe0b51</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10uf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea03f254-e623-4c3b-9a39-dd870cf4aee6</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3357fec2-3704-4534-9842-2c2f91db61ee</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c3dbd9d-2422-4853-b9ab-4d7634c2203e</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cb6434a-71b9-4029-a157-69ce0a1ed974</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100nf</value>
+      <footprint>MechAsh_Footprint_Library:C_0402</footprint>
+      <libsource lib="MechAsh_Library" part="C_0402" description="Unpolarized capacitor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dae5d1fe-bf23-41d7-a6ce-7e0df7395e0d</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SS34</value>
+      <footprint>MechAsh_Footprint_Library:DO-214</footprint>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="Part No.">SS34</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="SD_DO_14" description="Shockley (PNPN) diode"/>
+      <property name="Part No." value="SS34"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Shockley (PNPN) diode"/>
+      <property name="ki_keywords" value="Shockley diode PNPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52e142d7-f6de-4a4f-bffa-537c70e95d76</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>RB495D</value>
+      <footprint>MechAsh_Footprint_Library:SOT-23-3</footprint>
+      <libsource lib="MechAsh_Library" part="SD_SOT23_3" description=""/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e217091-a083-40d4-bc13-6dc5e285f0fd</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>R/G/B</value>
+      <footprint>MechAsh_Footprint_Library:LED_0603</footprint>
+      <libsource lib="MechAsh_Library" part="LED_0603" description="Light emitting diode"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77c2bb9a-72b3-4e90-92e3-601e7df3b272</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>R/G/B</value>
+      <footprint>MechAsh_Footprint_Library:LED_0603</footprint>
+      <libsource lib="MechAsh_Library" part="LED_0603" description="Light emitting diode"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5a037bd-f743-4375-958b-357d7dace41c</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>R/G/B</value>
+      <footprint>MechAsh_Footprint_Library:LED_0603</footprint>
+      <libsource lib="MechAsh_Library" part="LED_0603" description="Light emitting diode"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4a3ba31-032d-4d63-be9b-a534d3ef71ce</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>R/G/B</value>
+      <footprint>MechAsh_Footprint_Library:LED_0603</footprint>
+      <libsource lib="MechAsh_Library" part="LED_0603" description="Light emitting diode"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3fb4f7b-65e9-4fff-a053-4acb683ba10f</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_12402012E212A</value>
+      <footprint>MechAsh_Footprint_Library:USB_C_12402012E212A</footprint>
+      <libsource lib="MechAsh_Library" part="USB_C_12402012E212A" description=""/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4995edbf-558f-403b-90e0-a9da2d724c48</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>TC2030-IDC-NL</value>
+      <footprint>MechAsh_Footprint_Library:TAG_TC2030-IDC-NL</footprint>
+      <libsource lib="MechAsh_Library" part="TC2030-IDC-NL" description=""/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4db12cf-9a43-435a-bd40-c2166a58a58e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>JST_S2B-PH-K-S(LF)(SN)</value>
+      <footprint>MechAsh_Footprint_Library:JST_S2B-PH-K-S(LF)(SN)</footprint>
+      <fields>
+        <field name="DESCRIPTION">Connector Header Through Hole, Right Angle 2 position</field>
+        <field name="MF">JST Sales</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="JST_S2B-PH-K-S(LF)(SN)" description=""/>
+      <property name="MF" value="JST Sales"/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole, Right Angle 2 position"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b594c06-7f46-4055-8c45-372035cc7652</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>JST_S2B-PH-K-S(LF)(SN)</value>
+      <footprint>MechAsh_Footprint_Library:JST_S2B-PH-K-S(LF)(SN)</footprint>
+      <fields>
+        <field name="DESCRIPTION">Connector Header Through Hole, Right Angle 2 position</field>
+        <field name="MF">JST Sales</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="JST_S2B-PH-K-S(LF)(SN)" description=""/>
+      <property name="MF" value="JST Sales"/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole, Right Angle 2 position"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0aa3d57-ba66-465f-903c-645677fbe41b</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>JST_S2B-PH-K-S(LF)(SN)</value>
+      <footprint>MechAsh_Footprint_Library:JST_S2B-PH-K-S(LF)(SN)</footprint>
+      <fields>
+        <field name="DESCRIPTION">Connector Header Through Hole, Right Angle 2 position</field>
+        <field name="MF">JST Sales</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="JST_S2B-PH-K-S(LF)(SN)" description=""/>
+      <property name="MF" value="JST Sales"/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole, Right Angle 2 position"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c5faa1f-b8bb-4748-bb5a-7a8652020062</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>JST_S2B-PH-K-S(LF)(SN)</value>
+      <footprint>MechAsh_Footprint_Library:JST_S2B-PH-K-S(LF)(SN)</footprint>
+      <fields>
+        <field name="DESCRIPTION">Connector Header Through Hole, Right Angle 2 position</field>
+        <field name="MF">JST Sales</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="JST_S2B-PH-K-S(LF)(SN)" description=""/>
+      <property name="MF" value="JST Sales"/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole, Right Angle 2 position"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aea448c4-47ea-4f26-9d85-1b9c0bbec58b</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>DMG6968UDM-7</value>
+      <footprint>MechAsh_Footprint_Library:SOT-23-6</footprint>
+      <libsource lib="MechAsh_Library" part="DMG6968UDM-7" description="4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6"/>
+      <property name="ki_keywords" value="Dual Half Bridge N-Channel MOSFET Logic Level Common Drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e141b0c7-aa28-4eb8-bedf-0fe5049ab8e4</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>DMG6968UDM-7</value>
+      <footprint>MechAsh_Footprint_Library:SOT-23-6</footprint>
+      <libsource lib="MechAsh_Library" part="DMG6968UDM-7" description="4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6"/>
+      <property name="ki_keywords" value="Dual Half Bridge N-Channel MOSFET Logic Level Common Drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de5985a3-1654-4d07-856d-7e81f5496bc9</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>DMG6968UDM-7</value>
+      <footprint>MechAsh_Footprint_Library:SOT-23-6</footprint>
+      <libsource lib="MechAsh_Library" part="DMG6968UDM-7" description="4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6"/>
+      <property name="ki_keywords" value="Dual Half Bridge N-Channel MOSFET Logic Level Common Drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b24a13ae-e50a-44f8-bf7a-66e92486dfb9</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>DMG6968UDM-7</value>
+      <footprint>MechAsh_Footprint_Library:SOT-23-6</footprint>
+      <libsource lib="MechAsh_Library" part="DMG6968UDM-7" description="4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6"/>
+      <property name="ki_keywords" value="Dual Half Bridge N-Channel MOSFET Logic Level Common Drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd4ebc37-e1ea-42b8-9a3a-b442847a7605</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ec4be6a-0d1a-4379-ab5b-996d5ab9632c</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9644fd0-9f83-44d9-94bc-d0f5d8e40920</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>330R</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f465d2a-0eee-4967-9298-e964bdef96b3</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c232ae07-80b1-4440-9c61-94328c461f7a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b7c8f81-70d4-4a31-b418-2ea124600681</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b504b59-dc0c-457a-b1f9-647d53b5f1f1</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f95e0f2-993d-475d-a25a-48a878c830ba</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d85f5032-0898-42a0-9055-b3798cda0e94</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3aee09d-996a-4cbd-a966-513cf6bca8d5</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3f27a03-a6ac-45b7-a077-2da00fc4b324</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>15k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd685b94-64a8-445d-992a-cf867c4cc9b7</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4.7k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d92abe5e-54c4-4f8d-9266-3955e0589f69</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>15k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22a601b0-3aba-4ee4-bddd-98cd20f758fc</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4.7k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b8952e6-c38d-4b00-8acf-1b80d337640f</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>15k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85a91b49-e538-4b95-a61d-0f6fcebdc464</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>4.7k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0df175a6-b3e6-44b1-8ddd-6e2bb9f5a9ea</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>15k</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2880d7f-87d4-401c-a806-af1b8c857e56</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>330R</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d511dce-3a0d-408a-881c-00cc914c9973</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>330R</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03ee2373-a5f8-41e8-9d01-c5d9214c0088</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>330R</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a64048e5-dae9-49bb-885d-0fc36c2e9e2b</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>330R</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d44df4a1-5998-4ce3-aec6-833e7158a4c8</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>2k7</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5650fe1f-9d60-4fc1-afb7-ebcbf386ba46</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>2k7</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e142456d-2589-43c4-b407-c3fa79bfad43</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>2k7</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>654c498b-911a-4e7b-9a7a-3799a3fd948d</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>2k7</value>
+      <footprint>MechAsh_Footprint_Library:R_0402</footprint>
+      <libsource lib="MechAsh_Library" part="R_0402" description="Resistor"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16469042-4cf0-445d-a019-4a824e683723</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MIC5504-3.3YM5-TR</value>
+      <footprint>MechAsh_Footprint_Library:SOT-23-5</footprint>
+      <fields>
+        <field name="MANUFACTURER">Microchip</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="MIC5504-3.3YM5_TR" description=""/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MANUFACTURER" value="Microchip"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44df160f-5a3f-48f1-8cb7-d5bcb7eb0f3b</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>STM32F030F4P6</value>
+      <footprint>MechAsh_Footprint_Library:TSSOP-20</footprint>
+      <fields>
+        <field name="DESCRIPTION">MCU 32-bit STM32F ARM Cortex M0 RISC 16KB Flash 2.5V/3.3V 20-Pin TSSOP Tray</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="PACKAGE">TSSOP-20 STMicroelectronics</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="STM32F030F4P6" description=""/>
+      <property name="MF" value="STMicroelectronics"/>
+      <property name="DESCRIPTION" value="MCU 32-bit STM32F ARM Cortex M0 RISC 16KB Flash 2.5V/3.3V 20-Pin TSSOP Tray"/>
+      <property name="PACKAGE" value="TSSOP-20 STMicroelectronics"/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a1caff0-091b-47cc-b178-7095d1a64795</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MAX5387LAUDT+</value>
+      <footprint>MechAsh_Footprint_Library:TSSOP-14</footprint>
+      <libsource lib="MechAsh_Library" part="MAX5387LAUDT" description=""/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d4beaa3-7e57-4503-b7d4-91210f5bab6d</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MAX5387LAUDT+</value>
+      <footprint>MechAsh_Footprint_Library:TSSOP-14</footprint>
+      <libsource lib="MechAsh_Library" part="MAX5387LAUDT" description=""/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>741a30a3-3931-4464-85fa-10f26ca8756b</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TP4056</value>
+      <footprint>MechAsh_Footprint_Library:SOP8-EP</footprint>
+      <libsource lib="MechAsh_Library" part="TP4056" description=""/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05b3c3c2-1a20-46b4-800f-f3a10d477ed8</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>TP4056</value>
+      <footprint>MechAsh_Footprint_Library:SOP8-EP</footprint>
+      <libsource lib="MechAsh_Library" part="TP4056" description=""/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa850dcb-227d-4cf3-9e96-e445c8420339</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>TP4056</value>
+      <footprint>MechAsh_Footprint_Library:SOP8-EP</footprint>
+      <libsource lib="MechAsh_Library" part="TP4056" description=""/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0c77620-edd3-48a9-a08f-2b0084bd3339</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>TP4056</value>
+      <footprint>MechAsh_Footprint_Library:SOP8-EP</footprint>
+      <libsource lib="MechAsh_Library" part="TP4056" description=""/>
+      <property name="Part No." value=""/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>befb7842-5c50-4263-a986-3e0021b4155d</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>AP9101CK-AHTRG1</value>
+      <footprint>MechAsh_Footprint_Library:SOT-753-5</footprint>
+      <fields>
+        <field name="MANUFACTURER">Diodes Incorporated</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="AP9101CK-AHTRG1" description=""/>
+      <property name="MANUFACTURER" value="Diodes Incorporated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18e2e5fa-1928-4797-9fea-80112b7330fb</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>AP9101CK-AHTRG1</value>
+      <footprint>MechAsh_Footprint_Library:SOT-753-5</footprint>
+      <fields>
+        <field name="MANUFACTURER">Diodes Incorporated</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="AP9101CK-AHTRG1" description=""/>
+      <property name="MANUFACTURER" value="Diodes Incorporated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed729b3f-e483-40c9-bf94-09ef8adc9663</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>AP9101CK-AHTRG1</value>
+      <footprint>MechAsh_Footprint_Library:SOT-753-5</footprint>
+      <fields>
+        <field name="MANUFACTURER">Diodes Incorporated</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="AP9101CK-AHTRG1" description=""/>
+      <property name="MANUFACTURER" value="Diodes Incorporated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bde6097-bc06-45ff-b257-60e923824e56</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>AP9101CK-AHTRG1</value>
+      <footprint>MechAsh_Footprint_Library:SOT-753-5</footprint>
+      <fields>
+        <field name="MANUFACTURER">Diodes Incorporated</field>
+      </fields>
+      <libsource lib="MechAsh_Library" part="AP9101CK-AHTRG1" description=""/>
+      <property name="MANUFACTURER" value="Diodes Incorporated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DA_01_0V2_Smart_Battery_Charger.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>830512c6-1424-4361-b046-645c5a6bd95c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="MechAsh_Library" part="AP9101CK-AHTRG1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP9101CK-AHTRG1</field>
+        <field name="Footprint">MechAsh_Footprint_Library:SOT-753-5</field>
+        <field name="MANUFACTURER">Diodes Incorporated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VM" type="input"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DO" type="bidirectional"/>
+        <pin num="5" name="CO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="C_0402">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0</field>
+        <field name="Footprint">MechAsh_Footprint_Library:C_0402</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="C_E_1206_T">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0</field>
+        <field name="Footprint">MechAsh_Footprint_Library:C_E_1206</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="DMG6968UDM-7">
+      <description>4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6</description>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMG6968UDM-7</field>
+        <field name="Footprint">MechAsh_Footprint_Library:SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S1" type="passive"/>
+        <pin num="2" name="D1/D2" type="passive"/>
+        <pin num="3" name="S2" type="passive"/>
+        <pin num="4" name="G2" type="input"/>
+        <pin num="5" name="SD/D2" type="passive"/>
+        <pin num="6" name="G1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="JST_S2B-PH-K-S(LF)(SN)">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JST_S2B-PH-K-S(LF)(SN)</field>
+        <field name="Footprint">MechAsh_Footprint_Library:JST_S2B-PH-K-S(LF)(SN)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="LED_0603">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">R/G/B</field>
+        <field name="Footprint">MechAsh_Footprint_Library:LED_0603</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="MAX5387LAUDT">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX5387LAUDT+</field>
+        <field name="Footprint">MechAsh_Footprint_Library:TSSOP-14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="HA" type="bidirectional"/>
+        <pin num="2" name="WA" type="bidirectional"/>
+        <pin num="3" name="LA" type="bidirectional"/>
+        <pin num="4" name="HB" type="bidirectional"/>
+        <pin num="5" name="WB" type="bidirectional"/>
+        <pin num="6" name="LB" type="bidirectional"/>
+        <pin num="7" name="I.C." type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="A2" type="input"/>
+        <pin num="10" name="A1" type="input"/>
+        <pin num="11" name="A0" type="input"/>
+        <pin num="12" name="SDA" type="bidirectional"/>
+        <pin num="13" name="SCL" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="MIC5504-3.3YM5_TR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MIC5504-3.3YM5-TR</field>
+        <field name="Footprint">MechAsh_Footprint_Library:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="R_0402">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">0
+</field>
+        <field name="Footprint">MechAsh_Footprint_Library:R_0402</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="SD_DO_14">
+      <description>Shockley (PNPN) diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">p-id</field>
+        <field name="Footprint">MechAsh_Footprint_Library:DO-214</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="SD_SOT23_3">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">p-id</field>
+        <field name="Footprint">MechAsh_Footprint_Library:SOT-23-3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="STM32F030F4P6">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F030F4P6</field>
+        <field name="Footprint">MechAsh_Footprint_Library:TSSOP-20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BOOT0" type="input"/>
+        <pin num="2" name="PF0/OSC_IN" type="bidirectional"/>
+        <pin num="3" name="PF1/OSC_OUT" type="bidirectional"/>
+        <pin num="4" name="NRST" type="bidirectional"/>
+        <pin num="5" name="VDDA" type="power_in"/>
+        <pin num="6" name="PA0" type="bidirectional"/>
+        <pin num="7" name="PA1" type="bidirectional"/>
+        <pin num="8" name="PA2" type="bidirectional"/>
+        <pin num="9" name="PA3" type="bidirectional"/>
+        <pin num="10" name="PA4" type="bidirectional"/>
+        <pin num="11" name="PA5" type="bidirectional"/>
+        <pin num="12" name="PA6" type="bidirectional"/>
+        <pin num="13" name="PA7" type="bidirectional"/>
+        <pin num="14" name="PB1" type="bidirectional"/>
+        <pin num="15" name="VSS" type="passive"/>
+        <pin num="16" name="VDD" type="power_in"/>
+        <pin num="17" name="PA9" type="bidirectional"/>
+        <pin num="18" name="PA10" type="bidirectional"/>
+        <pin num="19" name="PA13" type="bidirectional"/>
+        <pin num="20" name="PA14" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="TC2030-IDC-NL">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TC2030-IDC-NL</field>
+        <field name="Footprint">MechAsh_Footprint_Library:TAG_TC2030-IDC-NL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="TP4056">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TP4056</field>
+        <field name="Footprint">MechAsh_Footprint_Library:SOP8-EP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TEMP" type="input"/>
+        <pin num="2" name="PROG" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="BAT" type="passive"/>
+        <pin num="6" name="~{STDBY}" type="output"/>
+        <pin num="7" name="~{CHRG}" type="output"/>
+        <pin num="8" name="CE" type="input"/>
+        <pin num="9" name="EP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MechAsh_Library" part="USB_C_12402012E212A">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_12402012E212A</field>
+        <field name="Footprint">MechAsh_Footprint_Library:USB_C_12402012E212A</field>
+      </fields>
+      <pins>
+        <pin num="A1_B12" name="GND" type="power_in"/>
+        <pin num="A4_B9" name="VBUS" type="power_out"/>
+        <pin num="A5" name="CC1_A" type="bidirectional"/>
+        <pin num="A6" name="D+_A" type="bidirectional"/>
+        <pin num="A7" name="D-_A" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1_A12" name="GND" type="power_in"/>
+        <pin num="B4_A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC1_B" type="bidirectional"/>
+        <pin num="B6" name="D+_B" type="bidirectional"/>
+        <pin num="B7" name="D-_B" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="SH1" name="SHIELD" type="passive"/>
+        <pin num="SH2" name="SHIELD" type="passive"/>
+        <pin num="SH3" name="SHIELD" type="passive"/>
+        <pin num="SH4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="MechAsh_Library">
+      <uri>F:/KiCad/Library/MechAsh_Library.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D2" pin="3" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U3" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="11" pinfunction="A0" pintype="input"/>
+      <node ref="U4" pin="14" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+BAT_1">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="BAT" pintype="passive"/>
+    </net>
+    <net code="3" name="+BAT_2">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="BAT" pintype="passive"/>
+    </net>
+    <net code="4" name="+BAT_3">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="BAT" pintype="passive"/>
+    </net>
+    <net code="5" name="+BAT_4">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="BAT" pintype="passive"/>
+    </net>
+    <net code="6" name="/+3.3_PROG">
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/BAT_1_CE">
+      <node ref="U2" pin="10" pinfunction="PA4" pintype="bidirectional"/>
+      <node ref="U5" pin="8" pinfunction="CE" pintype="input"/>
+    </net>
+    <net code="8" name="/BAT_1_CHRG">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="~{CHRG}" pintype="output"/>
+    </net>
+    <net code="9" name="/BAT_1_PROG">
+      <node ref="U3" pin="1" pinfunction="HA" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="WA" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pinfunction="PROG" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/BAT_1_STDBY">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="PF0/OSC_IN" pintype="bidirectional"/>
+      <node ref="U5" pin="6" pinfunction="~{STDBY}" pintype="output"/>
+    </net>
+    <net code="11" name="/BAT_1_V">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/BAT_2_CE">
+      <node ref="U2" pin="11" pinfunction="PA5" pintype="bidirectional"/>
+      <node ref="U6" pin="8" pinfunction="CE" pintype="input"/>
+    </net>
+    <net code="13" name="/BAT_2_CHRG">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U6" pin="7" pinfunction="~{CHRG}" pintype="output"/>
+    </net>
+    <net code="14" name="/BAT_2_PROG">
+      <node ref="U3" pin="4" pinfunction="HB" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="WB" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="PROG" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/BAT_2_STDBY">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="PF1/OSC_OUT" pintype="bidirectional"/>
+      <node ref="U6" pin="6" pinfunction="~{STDBY}" pintype="output"/>
+    </net>
+    <net code="16" name="/BAT_2_V">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/BAT_3_CE">
+      <node ref="U2" pin="12" pinfunction="PA6" pintype="bidirectional"/>
+      <node ref="U7" pin="8" pinfunction="CE" pintype="input"/>
+    </net>
+    <net code="18" name="/BAT_3_CHRG">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="~{CHRG}" pintype="output"/>
+    </net>
+    <net code="19" name="/BAT_3_PROG">
+      <node ref="U4" pin="1" pinfunction="HA" pintype="bidirectional"/>
+      <node ref="U4" pin="2" pinfunction="WA" pintype="bidirectional"/>
+      <node ref="U7" pin="2" pinfunction="PROG" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/BAT_3_STDBY">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="PA13" pintype="bidirectional"/>
+      <node ref="U7" pin="6" pinfunction="~{STDBY}" pintype="output"/>
+    </net>
+    <net code="21" name="/BAT_3_V">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/BAT_4_CE">
+      <node ref="U2" pin="13" pinfunction="PA7" pintype="bidirectional"/>
+      <node ref="U8" pin="8" pinfunction="CE" pintype="input"/>
+    </net>
+    <net code="23" name="/BAT_4_CHRG">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="~{CHRG}" pintype="output"/>
+    </net>
+    <net code="24" name="/BAT_4_PROG">
+      <node ref="U4" pin="4" pinfunction="HB" pintype="bidirectional"/>
+      <node ref="U4" pin="5" pinfunction="WB" pintype="bidirectional"/>
+      <node ref="U8" pin="2" pinfunction="PROG" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/BAT_4_STDBY">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="20" pinfunction="PA14" pintype="bidirectional"/>
+      <node ref="U8" pin="6" pinfunction="~{STDBY}" pintype="output"/>
+    </net>
+    <net code="26" name="/BAT_4_V">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/BOOT0">
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="28" name="/NRST">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="NRST" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/SCL_TX">
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="PA9" pintype="bidirectional"/>
+      <node ref="U3" pin="13" pinfunction="SCL" pintype="input"/>
+      <node ref="U4" pin="13" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="30" name="/SDA_RX">
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="PA10" pintype="bidirectional"/>
+      <node ref="U3" pin="12" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U4" pin="12" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A1_B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="B1_A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="S1" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="S1" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="S1" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="S1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U11" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U12" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="15" pinfunction="VSS" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="A1" pintype="input"/>
+      <node ref="U3" pin="11" pinfunction="A0" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="LA" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="LB" pintype="bidirectional"/>
+      <node ref="U3" pin="7" pinfunction="I.C." pintype="bidirectional"/>
+      <node ref="U3" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="A2" pintype="input"/>
+      <node ref="U4" pin="10" pinfunction="A1" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="LA" pintype="bidirectional"/>
+      <node ref="U4" pin="6" pinfunction="LB" pintype="bidirectional"/>
+      <node ref="U4" pin="7" pinfunction="I.C." pintype="bidirectional"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="9" pinfunction="A2" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="TEMP" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="TEMP" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="TEMP" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="TEMP" pintype="input"/>
+      <node ref="U8" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="3" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="32" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="SH1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="SH2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="SH3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="SH4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="A4_B9" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="J1" pin="B4_A9" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="34" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(Q1-G1)">
+      <node ref="Q1" pin="6" pinfunction="G1" pintype="input"/>
+      <node ref="U9" pin="4" pinfunction="DO" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="Net-(Q1-G2)">
+      <node ref="Q1" pin="4" pinfunction="G2" pintype="input"/>
+      <node ref="U9" pin="5" pinfunction="CO" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Net-(Q1-S2)">
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(Q2-G1)">
+      <node ref="Q2" pin="6" pinfunction="G1" pintype="input"/>
+      <node ref="U10" pin="4" pinfunction="DO" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="Net-(Q2-G2)">
+      <node ref="Q2" pin="4" pinfunction="G2" pintype="input"/>
+      <node ref="U10" pin="5" pinfunction="CO" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="Net-(Q2-S2)">
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(Q3-G1)">
+      <node ref="Q3" pin="6" pinfunction="G1" pintype="input"/>
+      <node ref="U11" pin="4" pinfunction="DO" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="Net-(Q3-G2)">
+      <node ref="Q3" pin="4" pinfunction="G2" pintype="input"/>
+      <node ref="U11" pin="5" pinfunction="CO" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="Net-(Q3-S2)">
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(Q4-G1)">
+      <node ref="Q4" pin="6" pinfunction="G1" pintype="input"/>
+      <node ref="U12" pin="4" pinfunction="DO" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="Net-(Q4-G2)">
+      <node ref="Q4" pin="4" pinfunction="G2" pintype="input"/>
+      <node ref="U12" pin="5" pinfunction="CO" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="Net-(Q4-S2)">
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="S2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(U1-VOUT)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="51" name="Net-(U9-VDD)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U9" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="52" name="Net-(U9-VM)">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U9" pin="1" pinfunction="VM" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(U10-VDD)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="54" name="Net-(U10-VM)">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="VM" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(U11-VDD)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="56" name="Net-(U11-VM)">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U11" pin="1" pinfunction="VM" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(U12-VDD)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="58" name="Net-(U12-VM)">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U12" pin="1" pinfunction="VM" pintype="input"/>
+    </net>
+    <net code="59" name="VBUS">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U8" pin="4" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="60" name="unconnected-(J1-CC1_A-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1_A" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(J1-CC1_B-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC1_B" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(J1-D+_A-PadA6)">
+      <node ref="J1" pin="A6" pinfunction="D+_A" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(J1-D+_B-PadB6)">
+      <node ref="J1" pin="B6" pinfunction="D+_B" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(J1-D-_A-PadA7)">
+      <node ref="J1" pin="A7" pinfunction="D-_A" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(J1-D-_B-PadB7)">
+      <node ref="J1" pin="B7" pinfunction="D-_B" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(J1-SBU1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(J1-SBU2-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(Q1-D1{slash}D2-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="D1/D2" pintype="passive"/>
+      <node ref="Q1" pin="5" pinfunction="SD/D2" pintype="passive"/>
+    </net>
+    <net code="69" name="unconnected-(Q2-D1{slash}D2-Pad2)">
+      <node ref="Q2" pin="2" pinfunction="D1/D2" pintype="passive"/>
+      <node ref="Q2" pin="5" pinfunction="SD/D2" pintype="passive"/>
+    </net>
+    <net code="70" name="unconnected-(Q3-D1{slash}D2-Pad2)">
+      <node ref="Q3" pin="2" pinfunction="D1/D2" pintype="passive"/>
+      <node ref="Q3" pin="5" pinfunction="SD/D2" pintype="passive"/>
+    </net>
+    <net code="71" name="unconnected-(Q4-D1{slash}D2-Pad2)">
+      <node ref="Q4" pin="2" pinfunction="D1/D2" pintype="passive"/>
+      <node ref="Q4" pin="5" pinfunction="SD/D2" pintype="passive"/>
+    </net>
+    <net code="72" name="unconnected-(U1-NC-Pad4)">
+      <node ref="U1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U2-PB1-Pad14)">
+      <node ref="U2" pin="14" pinfunction="PB1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U5-EP-Pad9)">
+      <node ref="U5" pin="9" pinfunction="EP" pintype="passive+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U6-EP-Pad9)">
+      <node ref="U6" pin="9" pinfunction="EP" pintype="passive+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U7-EP-Pad9)">
+      <node ref="U7" pin="9" pinfunction="EP" pintype="passive+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U8-EP-Pad9)">
+      <node ref="U8" pin="9" pinfunction="EP" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
